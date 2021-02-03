@@ -1,3 +1,3 @@
 # financial-reporting-automation
-# automation-project-financial
-# automation-project-financials
+This notebook process raw data from SAP in csv and outputs as per weekly reporting format. 
+
